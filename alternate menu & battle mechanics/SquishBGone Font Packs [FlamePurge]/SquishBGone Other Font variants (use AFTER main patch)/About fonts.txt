@@ -1,0 +1,12 @@
+CHANGES: The font used throughout the game.
+
+EFFECT: SquishBGone-compatible versions of the following font patches:
+- Final Fantasy I (mrBrawndo)
+- ULTIMA IV (mrBrawndo)
+- Final Fantasy VI (mrBrawndo)
+- Monocraft (mrBrawndo)
+- PC Senior (xJ4cks)
+
+---> YOU MUST APPLY THE ORIGINAL SquishBGone IPS PATCH FILE BEFORE USING THESE
+
+Adaptations of all 5 fonts accomplished by FlamePurge.

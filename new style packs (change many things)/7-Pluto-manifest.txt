@@ -1,0 +1,39 @@
+All Characters RK Battle Sprites v1.3, from T92.ips
+Rosa (PR battle + map sprites, by MObreck).ips
+Cid (RK, gold + PURPLE, by xJ4cks).ips
+Decil (RK, darkest by Nicoc1991).ips
+Edge (better RK by xJ4cks).ips
+Edward (RK, portrait colors by xJ4cks).ips
+FuSoYa (RK, lunar magic by xJ4cks).ips
+Golbez (PR battle + map sprites, by MObreck).ips
+Kain (RK, green by xJ4cks).ips
+Kydia (RK, pink magic by xJ4cks).ips
+Palom (RK, better by xJ4cks).ips
+Pecil (RK, Cosmic, by T92).ips
+Porom (RK, better by xJ4cks).ips
+Rydia (RK, pink magic by xJ4cks).ips
+SquishBGone 'PC Senior'.ips
+Yang (RK, better by xJ4cks).ips
+_SquishBGone_v102.ips
+map Cid (PURPLE, by xJ4cks).ips
+map Decil (PURPLE, closed helmet, by Nicoc1991).ips
+map Edge (PURPLE, by xJ4cks).ips
+map Edward better, by xJ4cks).ips
+map Kain (Green, by xJ4cks).ips
+map Palom (better, by xJ4cks).ips
+map Pecil (blue palette).ips
+map Porom (better, by xJ4cks).ips
+map Yang (PURPLE, by xJ4cks).ips
+menu Cid (gold + PURPLE, by xJ4cks).ips
+menu Decil (closed helmet, by Nicoc1991).ips
+menu Edge (better, by xJ4cks).ips
+menu FuSoYa (battle color, by xJ4cks).ips
+menu Golbez (yellow gold, by tsushiy).ips
+menu Kain (green, by xJ4cks).ips
+menu Palom (RK, blue, by xJ4cks).ips
+menu Pecil (better, by xJ4cks).ips
+menu Porom (RK, battle color, by xJ4cks).ips
+menu Rosa (PR ponytail, by FlamePurge).ips
+menu Rydia (better, by xJ4cks).ips
+menu Tellah (better, by xJ4cks).ips
+menu Yang (better, by xJ4cks).ips
