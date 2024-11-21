@@ -1,3 +1,0 @@
-CHANGES: All characters' menu portraits.
-
-EFFECT: Each character's portrait is redone with more complex shading and designs closer to the concept art.

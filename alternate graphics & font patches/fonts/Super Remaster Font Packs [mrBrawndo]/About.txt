@@ -1,3 +1,0 @@
-CHANGES: The font used throughout the game.
-
-EFFECT: Choose from a variety of fonts: Ultima IV, Final Fantasy VI, and Minecraft.
